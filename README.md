@@ -2,9 +2,9 @@
 Dự án phân tích yêu cầu, thiết kế cơ sở dữ liệu và xây dựng kịch bản kiểm thử (Test Cases) cho hệ thống Website xem phim trực tuyến MegaFilm.
 
 ### 1. Tổng Quan Dự Án
-  *Mục tiêu: Kiểm thử chức năng, luồng nghiệp vụ và tính toàn vẹn dữ liệu của hệ thống quản lý/xem phim.
-  *Vai trò: Thực tập sinh Kiểm thử phần mềm.
-  *Công cụ sử dụng: GitHub, Excel / Google Sheets, Draw.io, SQL Server.
+  - Mục tiêu: Kiểm thử chức năng, luồng nghiệp vụ và tính toàn vẹn dữ liệu của hệ thống quản lý/xem phim.
+  - Vai trò: Thực tập sinh Kiểm thử phần mềm.
+  - Công cụ sử dụng: GitHub, Excel / Google Sheets, Draw.io, SQL Server.
 
 ### 2. Cấu Trúc Repository
 ```
